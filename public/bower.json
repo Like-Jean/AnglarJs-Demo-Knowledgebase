@@ -1,0 +1,22 @@
+{
+  "name": "public",
+  "authors": [
+    "Like-Jean <guo.like.jean@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "^1.6.5",
+    "angular": "^1.6.5",
+    "bootstrap": "^3.3.7"
+  }
+}
